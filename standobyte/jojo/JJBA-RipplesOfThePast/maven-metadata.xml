@@ -3,8 +3,8 @@
   <groupId>standobyte.jojo</groupId>
   <artifactId>JJBA-RipplesOfThePast</artifactId>
   <versioning>
-    <latest>1.16.5-0.2.2-snapshot-241010-a</latest>
-    <release>1.16.5-0.2.2-snapshot-241010-a</release>
+    <latest>1.16.5-0.2.2-snapshot-241013-a</latest>
+    <release>1.16.5-0.2.2-snapshot-241013-a</release>
     <versions>
       <version>1.16.5-0.2.2-pre3-snapshot-231104-a</version>
       <version>1.16.5-0.2.2-pre3-snapshot-231119-a</version>
@@ -16,7 +16,8 @@
       <version>1.16.5-0.2.2-snapshot-240925-a</version>
       <version>1.16.5-0.2.2-snapshot-240925-b</version>
       <version>1.16.5-0.2.2-snapshot-241010-a</version>
+      <version>1.16.5-0.2.2-snapshot-241013-a</version>
     </versions>
-    <lastUpdated>20241010134753</lastUpdated>
+    <lastUpdated>20241013111737</lastUpdated>
   </versioning>
 </metadata>
