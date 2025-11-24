@@ -1,0 +1,78 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "standobyte.jojo",
+    "module": "RipplesOfThePast-NeoForge",
+    "version": "1.21.1-0.4-251124-b",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.14.3"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 21,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "RipplesOfThePast-NeoForge-1.21.1-0.4-251124-b.jar",
+          "url": "RipplesOfThePast-NeoForge-1.21.1-0.4-251124-b.jar",
+          "size": 5432903,
+          "sha512": "600a54c3be420c96a1206f99e87abf33c62f5f57f6b64bce911529aeb896f1cd5ada1fe237bdc16e8d958a6925e60c390a561efe08fb2362aa15bce2ffddd842",
+          "sha256": "5d9934d2b54d3b40109f7585ab9cf6a7a056dcd6fa105c3976cee56842d4612d",
+          "sha1": "f21e6f793c801d82d83253b346915cfa282c205c",
+          "md5": "44f791f7a2a81bf25ee379de276baae0"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 21,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "net.neoforged",
+          "module": "neoforge",
+          "version": {
+            "requires": "21.1.197"
+          }
+        },
+        {
+          "group": "team.unnamed",
+          "module": "mocha",
+          "version": {
+            "strictly": "[3.0.0, 3.1.0)",
+            "requires": "[3.0.0, 3.1.0)",
+            "prefers": "3.0.1"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "RipplesOfThePast-NeoForge-1.21.1-0.4-251124-b.jar",
+          "url": "RipplesOfThePast-NeoForge-1.21.1-0.4-251124-b.jar",
+          "size": 5432903,
+          "sha512": "600a54c3be420c96a1206f99e87abf33c62f5f57f6b64bce911529aeb896f1cd5ada1fe237bdc16e8d958a6925e60c390a561efe08fb2362aa15bce2ffddd842",
+          "sha256": "5d9934d2b54d3b40109f7585ab9cf6a7a056dcd6fa105c3976cee56842d4612d",
+          "sha1": "f21e6f793c801d82d83253b346915cfa282c205c",
+          "md5": "44f791f7a2a81bf25ee379de276baae0"
+        }
+      ]
+    }
+  ]
+}
