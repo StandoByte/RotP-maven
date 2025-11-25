@@ -27,11 +27,11 @@
         {
           "name": "RipplesOfThePast-NeoForge-1.21.1-0.4-251124-b.jar",
           "url": "RipplesOfThePast-NeoForge-1.21.1-0.4-251124-b.jar",
-          "size": 5432903,
-          "sha512": "600a54c3be420c96a1206f99e87abf33c62f5f57f6b64bce911529aeb896f1cd5ada1fe237bdc16e8d958a6925e60c390a561efe08fb2362aa15bce2ffddd842",
-          "sha256": "5d9934d2b54d3b40109f7585ab9cf6a7a056dcd6fa105c3976cee56842d4612d",
-          "sha1": "f21e6f793c801d82d83253b346915cfa282c205c",
-          "md5": "44f791f7a2a81bf25ee379de276baae0"
+          "size": 5425193,
+          "sha512": "93c80d1afac718a962ef9b0f599ce62580c86410d1adfc5f61db25590fc0a5b172bcb81737ac46612bdaee4fe7a8ebd51bfefede1e599ff10a51bb55cd163983",
+          "sha256": "c15b2f09e38042626cb97f2b098893b63f24e9cc591fc17355926f970f222246",
+          "sha1": "b5b3529d784e1b1b46d5c08970d78053fa552d36",
+          "md5": "b14d31055451ad5a1c3c26c157df701c"
         }
       ]
     },
@@ -66,11 +66,11 @@
         {
           "name": "RipplesOfThePast-NeoForge-1.21.1-0.4-251124-b.jar",
           "url": "RipplesOfThePast-NeoForge-1.21.1-0.4-251124-b.jar",
-          "size": 5432903,
-          "sha512": "600a54c3be420c96a1206f99e87abf33c62f5f57f6b64bce911529aeb896f1cd5ada1fe237bdc16e8d958a6925e60c390a561efe08fb2362aa15bce2ffddd842",
-          "sha256": "5d9934d2b54d3b40109f7585ab9cf6a7a056dcd6fa105c3976cee56842d4612d",
-          "sha1": "f21e6f793c801d82d83253b346915cfa282c205c",
-          "md5": "44f791f7a2a81bf25ee379de276baae0"
+          "size": 5425193,
+          "sha512": "93c80d1afac718a962ef9b0f599ce62580c86410d1adfc5f61db25590fc0a5b172bcb81737ac46612bdaee4fe7a8ebd51bfefede1e599ff10a51bb55cd163983",
+          "sha256": "c15b2f09e38042626cb97f2b098893b63f24e9cc591fc17355926f970f222246",
+          "sha1": "b5b3529d784e1b1b46d5c08970d78053fa552d36",
+          "md5": "b14d31055451ad5a1c3c26c157df701c"
         }
       ]
     }
