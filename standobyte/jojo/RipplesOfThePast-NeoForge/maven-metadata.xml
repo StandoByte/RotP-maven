@@ -3,11 +3,11 @@
   <groupId>standobyte.jojo</groupId>
   <artifactId>RipplesOfThePast-NeoForge</artifactId>
   <versioning>
-    <latest>1.21.1-0.4-251128-b</latest>
-    <release>1.21.1-0.4-251128-b</release>
+    <latest>1.21.1-0.4-251211-a</latest>
+    <release>1.21.1-0.4-251211-a</release>
     <versions>
-      <version>1.21.1-0.4-251128-b</version>
+      <version>1.21.1-0.4-251211-a</version>
     </versions>
-    <lastUpdated>20251128203243</lastUpdated>
+    <lastUpdated>20251211190237</lastUpdated>
   </versioning>
 </metadata>
