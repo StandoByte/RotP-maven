@@ -1,0 +1,78 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "standobyte.jojo",
+    "module": "ROTP-public-beta-NeoForge",
+    "version": "1.21.1-0.4-261124-b",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.14.3"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 21,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "ROTP-public-beta-NeoForge-1.21.1-0.4-261124-b.jar",
+          "url": "ROTP-public-beta-NeoForge-1.21.1-0.4-261124-b.jar",
+          "size": 9164925,
+          "sha512": "88e715700666ea5375c76b27ab700c82264cebbf918daa0ff4b72456b0987bf272cc954fd88d65c57a4bcac43a24e44a956d907b0a74be52daf461f949c9cd75",
+          "sha256": "bf9c2cb7ae0d50b6fc101abf0a92186ffb7796e6fdc2e5239323629b6bbf751f",
+          "sha1": "c6fbe497ea96438ea6fde617f7812e376408fdc9",
+          "md5": "0d615de707d19fdca55bc13a8ea2b55e"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 21,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "net.neoforged",
+          "module": "neoforge",
+          "version": {
+            "requires": "21.1.262"
+          }
+        },
+        {
+          "group": "team.unnamed",
+          "module": "mocha",
+          "version": {
+            "strictly": "[3.0.0, 3.1.0)",
+            "requires": "[3.0.0, 3.1.0)",
+            "prefers": "3.0.1"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "ROTP-public-beta-NeoForge-1.21.1-0.4-261124-b.jar",
+          "url": "ROTP-public-beta-NeoForge-1.21.1-0.4-261124-b.jar",
+          "size": 9164925,
+          "sha512": "88e715700666ea5375c76b27ab700c82264cebbf918daa0ff4b72456b0987bf272cc954fd88d65c57a4bcac43a24e44a956d907b0a74be52daf461f949c9cd75",
+          "sha256": "bf9c2cb7ae0d50b6fc101abf0a92186ffb7796e6fdc2e5239323629b6bbf751f",
+          "sha1": "c6fbe497ea96438ea6fde617f7812e376408fdc9",
+          "md5": "0d615de707d19fdca55bc13a8ea2b55e"
+        }
+      ]
+    }
+  ]
+}
