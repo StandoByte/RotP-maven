@@ -3,11 +3,11 @@
   <groupId>standobyte.jojo</groupId>
   <artifactId>ROTP-public-beta-NeoForge</artifactId>
   <versioning>
-    <latest>1.21.1-0.4-261124-b</latest>
-    <release>1.21.1-0.4-261124-b</release>
+    <latest>1.21.1-0.4-261125-a</latest>
+    <release>1.21.1-0.4-261125-a</release>
     <versions>
-      <version>1.21.1-0.4-261124-b</version>
+      <version>1.21.1-0.4-261125-a</version>
     </versions>
-    <lastUpdated>20261124222718</lastUpdated>
+    <lastUpdated>20261125175421</lastUpdated>
   </versioning>
 </metadata>
